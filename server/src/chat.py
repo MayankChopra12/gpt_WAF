@@ -1,7 +1,7 @@
 import requests
 
 def generate_response(prompt):
-    api_key = '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'  # Replace with your actual API key
+    api_key = 'your open api key'  # Replace with your actual API key
     endpoint = 'https://api.openai.com/v1/chat/completions'
 
     headers = {
