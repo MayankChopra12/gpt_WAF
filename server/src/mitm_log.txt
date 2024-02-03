@@ -1,0 +1,48 @@
+Request:
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0 
+accept: image/avif,image/webp,*/* 
+accept-language: en-US,en;q=0.5 
+accept-encoding: gzip, deflate, br 
+referer: https://ginandjuice.shop/ 
+cookie: AWSALB=ZhVBYCe4eGyMHk8ltJVlnewkjaSbXnyLKDXDqRgh6N5jpSRY8m/xyKP76K1pVdiA9mLDLlF9EVwLekG6AF2i/bVhVOZ/m+4/uP2poMvboj1mPFLpi66ExqZ88fne, AWSALBCORS=ZhVBYCe4eGyMHk8ltJVlnewkjaSbXnyLKDXDqRgh6N5jpSRY8m/xyKP76K1pVdiA9mLDLlF9EVwLekG6AF2i/bVhVOZ/m+4/uP2poMvboj1mPFLpi66ExqZ88fne, session=o4fb2e6ug067VraGyYwyYVHwKjWnSzb3 
+sec-fetch-dest: image 
+sec-fetch-mode: no-cors 
+sec-fetch-site: same-origin 
+te: trailers 
+
+
+Response:
+The provided request header appears to be legitimate and not suspicious. It should be safe to proceed with the request.
+
+Request:
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0 
+accept: image/avif,image/webp,*/* 
+accept-language: en-US,en;q=0.5 
+accept-encoding: gzip, deflate, br 
+referer: https://ginandjuice.shop/ 
+cookie: AWSALB=ZhVBYCe4eGyMHk8ltJVlnewkjaSbXnyLKDXDqRgh6N5jpSRY8m/xyKP76K1pVdiA9mLDLlF9EVwLekG6AF2i/bVhVOZ/m+4/uP2poMvboj1mPFLpi66ExqZ88fne, AWSALBCORS=ZhVBYCe4eGyMHk8ltJVlnewkjaSbXnyLKDXDqRgh6N5jpSRY8m/xyKP76K1pVdiA9mLDLlF9EVwLekG6AF2i/bVhVOZ/m+4/uP2poMvboj1mPFLpi66ExqZ88fne, session=o4fb2e6ug067VraGyYwyYVHwKjWnSzb3 
+sec-fetch-dest: image 
+sec-fetch-mode: no-cors 
+sec-fetch-site: same-origin 
+te: trailers 
+
+
+Response:
+The provided HTTP headers do not appear suspicious. It should be safe to proceed.
+
+Request:
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0 
+accept: image/avif,image/webp,*/* 
+accept-language: en-US,en;q=0.5 
+accept-encoding: gzip, deflate, br 
+referer: https://ginandjuice.shop/ 
+cookie: AWSALB=ZhVBYCe4eGyMHk8ltJVlnewkjaSbXnyLKDXDqRgh6N5jpSRY8m/xyKP76K1pVdiA9mLDLlF9EVwLekG6AF2i/bVhVOZ/m+4/uP2poMvboj1mPFLpi66ExqZ88fne, AWSALBCORS=ZhVBYCe4eGyMHk8ltJVlnewkjaSbXnyLKDXDqRgh6N5jpSRY8m/xyKP76K1pVdiA9mLDLlF9EVwLekG6AF2i/bVhVOZ/m+4/uP2poMvboj1mPFLpi66ExqZ88fne, session=o4fb2e6ug067VraGyYwyYVHwKjWnSzb3 
+sec-fetch-dest: image 
+sec-fetch-mode: no-cors 
+sec-fetch-site: same-origin 
+te: trailers 
+
+
+Response:
+Based on the Python intercept request you provided, the header and content do not appear to be suspicious. It should be safe to go ahead.
+

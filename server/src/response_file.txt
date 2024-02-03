@@ -1,0 +1,1 @@
+ÿþThe provided request header appears to be legitimate and not suspicious. It should be safe to proceed with the request.The provided HTTP headers do not appear suspicious. It should be safe to proceed.Based on the Python intercept request you provided, the header and content do not appear to be suspicious. It should be safe to go ahead.
